@@ -1,0 +1,9 @@
+c:\users\alexander\documents\visual studio 2010\Projects\Operaciones entre Lenguajes\Operaciones entre Lenguajes\bin\Debug\Operaciones entre Lenguajes.exe
+c:\users\alexander\documents\visual studio 2010\Projects\Operaciones entre Lenguajes\Operaciones entre Lenguajes\bin\Debug\Operaciones entre Lenguajes.pdb
+c:\users\alexander\documents\visual studio 2010\Projects\Operaciones entre Lenguajes\Operaciones entre Lenguajes\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2010\Projects\Operaciones entre Lenguajes\Operaciones entre Lenguajes\obj\x86\Debug\Operaciones_entre_Lenguajes.Form1.resources
+c:\users\alexander\documents\visual studio 2010\Projects\Operaciones entre Lenguajes\Operaciones entre Lenguajes\obj\x86\Debug\Operaciones_entre_Lenguajes.Properties.Resources.resources
+c:\users\alexander\documents\visual studio 2010\Projects\Operaciones entre Lenguajes\Operaciones entre Lenguajes\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\alexander\documents\visual studio 2010\Projects\Operaciones entre Lenguajes\Operaciones entre Lenguajes\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\alexander\documents\visual studio 2010\Projects\Operaciones entre Lenguajes\Operaciones entre Lenguajes\obj\x86\Debug\Operaciones entre Lenguajes.exe
+c:\users\alexander\documents\visual studio 2010\Projects\Operaciones entre Lenguajes\Operaciones entre Lenguajes\obj\x86\Debug\Operaciones entre Lenguajes.pdb
